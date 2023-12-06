@@ -61,6 +61,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 ## Output 
 ##Output of navbar
 
+<img width="960" alt="Screenshot 2023-12-06 163340" src="https://github.com/DivyanshiSoni/To_Do_List/assets/106247201/8ea4da7e-042c-4135-b2a7-e4c2d02de5c6">
 
 
 
